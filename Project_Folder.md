@@ -19,3 +19,6 @@ We feel **strongly** that hard work yields great results!
 [Facebook](https://www.facebook.com) 
 [Google](http://www.google.com)
 [Twitter](http://www.twitter.com)
+
+Here is an image of our greatest asset here at The Lizzy Foundation.
+![An image of money](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWCdlFEXO1AqrxzucAO3c3X7-Lhu-oy8ulJahBgirUzg0yBP_H)
