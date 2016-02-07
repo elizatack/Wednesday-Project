@@ -14,3 +14,8 @@ In order of importance,
 3. Help others
 
 We feel **strongly** that hard work yields great results!
+
+####Our Favorite Websites are:
+[Facebook](https://www.facebook.com) 
+[Google](http://www.google.com)
+[Twitter](http://www.twitter.com)
